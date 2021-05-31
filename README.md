@@ -12,7 +12,16 @@ Set your API key using the following command:
 ```
 $Env:CMC_API_KEY  = "APIKEYHERE"
 ```
-
+To get prices:
+```
+.\cointerminal.ps1 [SYMBOL] [FIAT]
+```
+Or:
+```
+.\cointerminal.ps1 #Run the script and enter parameters as prompted
+Input Coin symbol: 
+Input the Fiat name: 
+```
 _****You can get a key here: https://pro.coinmarketcap.com/account****_ 
 
 ## To Do
