@@ -1,4 +1,4 @@
-function CodeTerminal
+function CoinTerminal
 {
 param (
     # Symbol entry
